@@ -1,0 +1,180 @@
+@media screen and (min-width: 1020px) {
+    #root{
+        width: 70%
+    }
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.market-performance{
+    border: 1px solid;
+    border-color:rgb(195, 195, 198);
+    padding: 10px;
+}
+
+.bottom-line{
+    border-bottom: 1px solid;
+    border-bottom-color: rgb(195, 195, 198);
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* padding: 5px */
+}
+
+.column{
+    padding: 5px;
+    /* margin: 5px; */
+    width: 33%
+}
+
+.half{
+    width: 50%
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-left{
+    text-align: left
+}
+
+.green{
+    color: #267326
+}
+
+.red{
+    color: #c30;
+}
+
+.blue{
+    color: #07a;
+}
+
+.bold{
+    font-weight: bold
+}
+
+.grey{
+    color: #555;
+}
+
+.logo-img{
+    height: 30px;
+}
+
+.fool-header{
+    padding: 10px;
+}
+
+.color-line{
+    width: 100%;
+    display: flex;
+    margin-bottom: 15px
+}
+.color{
+    flex: 1;
+    height: 3px;
+}
+
+.blue-b{
+    background-color: #336699
+}
+
+.yellow-b{
+    background-color: #FFCC33;
+}
+
+.red-b {
+    background-color: #CC3300;
+}
+
+.green-b {
+    background-color: #339933;
+}
+
+.blue-b {
+    background-color: #336699;
+}
+
+.yellow-b {
+    background-color: #FFCC33;
+}
+
+/* .card-header{
+    font-size: 1.25em;
+    color: #07a;
+}
+
+.card-image{
+    height: 150px;
+    width: 100%;
+    margin-top: 10px
+}
+
+.author-byline{
+    font-weight: bold;
+    font-size: 70%;
+}
+
+.card-text{
+    padding-left: 20px; 
+    padding-right: 20px;
+}
+
+.card{
+    border: 1px solid;
+    border-color:rgb(195, 195, 198);
+    margin-top: 10px;
+    padding: 5px
+} */
+
+.article-btn{
+    background-image: linear-gradient(#fcca31, #dea803);
+    border: 1px solid #dea803;
+    font-weight: normal;
+    padding: 20px;
+    text-shadow: none;
+    background-clip: padding-box;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 0 white inset;
+    color: #333333;
+    display: inline-block;
+    font-size: 1em;
+    outline: medium none;
+    text-decoration: none;
+}
+
+.premium-service{
+    border: 1px solid;
+    border-color:rgb(195, 195, 198);
+    padding: 10px;
+    margin-top: 6px;
+}
+
+
+.column-premium{
+    padding: 5px;
+    /* margin: 5px; */
+}
+
+.two-half{
+    width: 25%
+}
+
+.small{
+    font-size: 12px;
+}
+
+
+
+
+
+
